@@ -4,3 +4,6 @@
  
  * Electron
  * NodeJS
+
+
+#### Developed by Intel & Ross
