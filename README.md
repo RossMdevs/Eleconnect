@@ -1,6 +1,6 @@
 # EHDesktop
 
-## Produdly developed with:
+## Proudly developed with:
  
  * Electron
  * NodeJS
