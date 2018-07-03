@@ -1,7 +1,7 @@
 function lightMode()
 {
-        alert("WARNING: You are about to burn your eyes!!!");
-        document.body.style.backgroundColor = '#FFFFFF';
+        alert("EndlessHosting is not liable with any damages caused to Retinas during the use of the White theme!");
+        document.body.style.backgroundColor = '#FFFFFF'; 
 }
 
 function darkMode()
