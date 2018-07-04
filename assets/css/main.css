@@ -7,3 +7,9 @@ p, h2{
 #text2{
     color: #ffffff; 
 }
+#topbar{
+    -webkit-app-region: drag;
+}
+#xbutton{
+    -webkit-app-region: no-drag;
+}
