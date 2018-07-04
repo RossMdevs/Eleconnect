@@ -10,6 +10,6 @@ p, h2{
 #topbar{
     -webkit-app-region: drag;
 }
-#xbutton{
+button{
     -webkit-app-region: no-drag;
 }
