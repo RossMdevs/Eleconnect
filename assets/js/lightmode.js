@@ -1,13 +1,13 @@
 function lightMode()
 {
-        //alert("EndlessHosting is not liable with any damages caused to Retinas during the use of the White theme!");
-        //alert("No, SERIOUSLY! You are 99.9% destined to go blind!");
+        swal("EndlessHosting is not liable with any damages caused to Retinas during the use of the White theme!");
         document.body.style.backgroundColor = '#FFFFFF'; 
         document.getElementById("text2").style.color = '#000000';
 }
 
 function darkMode()
 {
-    document.body.style.backgroundColor = '#2C2F33'; // I LIKE TO MOVE IT I LIKE TO MOVE IT MOVE IT!
+    swal("Good job!", "You have come to your senses. Your eyes will thank you later.", "success"); // Remember, Kids! White theme is not good for the eye sockets!
+    document.body.style.backgroundColor = '#2C2F33';
     document.getElementById("text2").style.color = '#FFFFFF';
 }

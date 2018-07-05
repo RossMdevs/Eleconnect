@@ -6,7 +6,7 @@
  * NodeJS
  
 
- ## Building
+ ## Building Locally - Developers Only
 Build the project: `electron-packager . --overwrite --icon=assets/icons/win/icon.ico --out=release-builds`
 Build the installer (optional): `node installers/windows/createinstaller.js`
 
