@@ -3,6 +3,8 @@
 
 ### Allows Secure connection to WHM/cPanel with electron!
 
+### Open sourced!
+
 ## Proudly developed with:
  
  * Electron
