@@ -1,5 +1,8 @@
 # EHDesktop
 
+
+### Allows Secure connection to WHM/cPanel with electron!
+
 ## Proudly developed with:
  
  * Electron
@@ -16,4 +19,3 @@ Build the installer (optional): `node installers/windows/createinstaller.js`
 
 
 
-:) lol nou
