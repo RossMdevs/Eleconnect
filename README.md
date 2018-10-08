@@ -1,7 +1,7 @@
-# EHDesktop
+# Eleconnect
 
 
-### Allows Secure connection to WHM/cPanel with electron!
+### Allows Secure connection to url's with electron!
 
 ### Open sourced!
 
