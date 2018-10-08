@@ -1,7 +1,7 @@
 {
-  "name": "ehdesktop",
+  "name": "eleconnect",
   "version": "1.0.0",
-  "description": "Endless Hosting for Desktop",
+  "description": "Base app for Electron to coonect to your files.",
   "main": "main.js",
   "dependencies": {},
   "devDependencies": {
