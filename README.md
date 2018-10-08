@@ -1,16 +1,15 @@
 # Eleconnect
 
+Eleconnect (Formerly EHAPP) is a simple based electron app shell (Base app for starters) 
 
-### Allows Secure connection to url's with electron!
-
-### Open sourced!
+### This project is now open sourced!
 
 ## Proudly developed with:
  
  * Electron
  * NodeJS
  
-
+##### Do not mess with packagine lines in package.json!
  ## Building
 Build the project: `electron-packager . --overwrite --icon=assets/icons/win/icon.ico --out=release-builds`
 Build the installer (optional): `node installers/windows/createinstaller.js`
