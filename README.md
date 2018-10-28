@@ -1,4 +1,4 @@
-# Project Development Halted due to unforseen events!
+# Project Development Halted due to unproper Licensing!
 ## [Check us out here](https://github.com/RossMdevs/Password-Gen)
 
 # Eleconnect
