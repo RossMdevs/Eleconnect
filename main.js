@@ -13,8 +13,7 @@ const {app, BrowserWindow} = require('electron')
     win = new BrowserWindow({width: 800, height: 600, frame: false})
   
     win.loadFile('index.html')
-  
-  
+  // Loads file/url depending on choice
     win.on('closed', () => {
       win = null
     })
