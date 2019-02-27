@@ -1,5 +1,6 @@
 # Project Development Halted due to unproper Licensing and the developer quitting.
-## [Check us out here](https://github.com/RossMdevs/Password-Gen)
+
+This projects is redesigned under ## [Check us out here](https://github.com/RossMdevs/Password-Gen)
 
 # Eleconnect
 
