@@ -1,12 +1,10 @@
-# Project Development Halted due to unproper Licensing and the developer quitting.
-
-This projects is redesigned under ## [Check us out here](https://github.com/RossMdevs/Password-Gen)
+# Eleconnect, simple base shell for starter devs.
 
 # Eleconnect
 
-Eleconnect (Formerly EHAPP) is a simple based electron app shell (Base app for starters) 
+Eleconnect is a simple based electron app shell.
 
-### This project is now open sourced!
+### This project is  open sourced!
 
 ## Proudly developed with:
  
