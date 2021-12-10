@@ -3,15 +3,17 @@
 # Eleconnect
 
 Eleconnect is a simple based electron app shell.
-
-### This project is  open sourced!
+ 
+ # ⚠️ Read ME ⚠️
+ 
+ ### Do not touch package.json, it contains critical assets to keep the package up to date. Modify0000dckage.json will result in unstability and security risks.
 
 ## Proudly developed with:
  
  * Electron
- * NodeJS
+ * NdeJS
  
-##### Do not mess with packagine lines in package.json!
+
  
  # Before Building!
   Modify the main.js, go to line.
