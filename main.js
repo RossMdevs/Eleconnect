@@ -10,7 +10,7 @@ const {app, BrowserWindow} = require('electron')
   let win
   
   function createWindow () {
-    win = new BrowserWindow({width: 800, height: 600, frame: false})
+    win = new BrowserWindow({width: 800, height: 600, frame: false}) // specifies height, width and if the windows is borderless or not.
   
     win.loadFile('index.html')
   
