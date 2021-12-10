@@ -13,17 +13,37 @@ Eleconnect is a simple based electron app shell.
  * Electron
  * NdeJS
  
+ # Get Started 
+ 
+ First: Install NODEJS (https://nodejs.org/en/) 
+ Second: Install GIT (https://git-scm.com/)
+ 
+ Once you do, open the folder where the source is.
+
+Run ``npm update`` this will update the files.
+
+
+ 
+
 
  
  # Before Building!
-  Open the main.js, go to line 15.
+  Open the main.js, go to line 15 and modify it using the specified syntax below.
   
-  To load a file, use ``win.loadFile('index.html')``
-  To load a URL, use  ``win.loadURL('index.html')``
+  If you want to load a file, use ``win.loadFile('index.html')``
   
-  If your using a URL make sure it's active and live, if using a file make sure to edit the default index.html
- ## Building
+  If you want to load a URL, use  ``win.loadURL('index.html')``
+  
+  ###### Make sure your URL is live and propogated on the internet. (If you're loading a file, edit the index.html)
+
+
+## Building
+
+Make sure ELECTRON Packager is installed  ``npm install -g electron-packager``
+
 Build the project: `electron-packager . --overwrite --icon=assets/icons/win/icon.ico --out=release-builds`
+
+
 Build the installer (optional): `node installers/windows/createinstaller.js`
 
 
