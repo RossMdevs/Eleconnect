@@ -14,12 +14,12 @@ function getInstallerConfig () {
   const outPath = path.join(rootPath, 'release-builds')
 
   return Promise.resolve({
-    appDirectory: path.join(outPath, 'ehdesktop-win32-x64'),
-    authors: 'Endless Hosting',
+    appDirectory: path.join(outPath, 'rlm-xrs-disp-win32-ia32'),
+    authors: 'RLM Managed Assets & Tech',
     noMsi: true,
     outputDirectory: path.join(outPath, 'windows-installer'),
-    exe: 'ehdesktop.exe',
-    setupExe: 'EHDesktopInstaller.exe',
+    exe: 'rlm-xrs-disp.exe',
+    setupExe: 'XRSDSK.exe',
     setupIcon: path.join(rootPath, 'assets', 'icons', 'win', 'icon.ico')
   })
 }
