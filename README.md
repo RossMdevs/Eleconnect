@@ -3,10 +3,10 @@
 # Eleconnect
 
 Eleconnect is a simple based electron app shell.
- 
+
  # ⚠️ Read ME ⚠️
  
- ### Do not touch package.json, it contains critical assets to keep the package up to date. Modify0000dckage.json will result in unstability and security risks.
+ ### Do not touch package.json, it contains critical assets to keep the package up to date. Modifying the package.json will result in unstability and security risks.
 
 ## Proudly developed with:
  
@@ -16,7 +16,7 @@ Eleconnect is a simple based electron app shell.
 
  
  # Before Building!
-  Modify the main.js, go to line.
+  Open the main.js, go to line 15.
   
   To load a file, use ``win.loadFile('index.html')``
   To load a URL, use  ``win.loadURL('index.html')``
