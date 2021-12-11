@@ -37,14 +37,14 @@ Run ``npm update`` this will update the files.
   
   ###### Make sure your URL is live and propogated on the internet. (If you're loading a file, edit the index.html)
  
-Also, make sure you modify these lines in package.json
+Also, make sure you modify these lines in package.json, as when it's packaged this information will display.
 ```  
 "name": "eleconnect",
   "version": "1.0.0",
   "description": "Base app for Electron to coonect to your files.",
   ```
 
-  And modify the output name and logo here
+  And modify the output name here, this will be the installer name.
   ```ProductName=\"Name Here\"",```
 
 ## Building
