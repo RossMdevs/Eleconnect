@@ -36,7 +36,16 @@ Run ``npm update`` this will update the files.
   If you want to load a URL, use  ``win.loadURL('index.html')``
   
   ###### Make sure your URL is live and propogated on the internet. (If you're loading a file, edit the index.html)
+ 
+Also, make sure you modify these lines in package.json
+```  
+"name": "eleconnect",
+  "version": "1.0.0",
+  "description": "Base app for Electron to coonect to your files.",
+  ```
 
+  And modify the output name and logo here
+  ```ProductName=\"Name Here\"",```
 
 ## Building
 
