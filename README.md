@@ -7,15 +7,8 @@
 Eleconnect is a electron developed app. 
 It opens a frameless or framed window displaying the asset you configured to load.
 
-It is the first step to packaging a windows app for distro.
+It is the first step to packaging a windows app for your specified distro.
 
- # ⚠️ Read ME ⚠️
-
-# If instance errors, 
-
-Utilize this command,
-`this.document.location = "Directory/of/build/index.html"`
-Using / reverts to Chromes failure page.
 ## Proudly developed with:
  
  * Electron
@@ -54,6 +47,13 @@ Build the project: `electron-packager . --overwrite --icon=assets/icons/win/icon
 
 Build the installer (optional): `node installers/windows/createinstaller.js`
 
+
+
+# Errors 
+
+Utilize this command using the Console Interface.
+`this.document.location = "Directory/of/build/index.html"`
+Using "/" as the location reverts to a broken page
 
 #### Developed by Intel & Ross
 
