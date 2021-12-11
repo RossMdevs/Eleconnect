@@ -4,7 +4,10 @@
 
 > We work with [PasswordGen](https://github.com/RossMdevs/Password-Generator)
 
-Eleconnect is a simple based electron app shell.
+Eleconnect is a electron developed app. 
+It opens a frameless or framed window displaying the asset you configured to load.
+
+It is the first step to packaging a windows app for distro.
 
  # ⚠️ Read ME ⚠️
 
