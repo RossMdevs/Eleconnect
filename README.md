@@ -7,9 +7,6 @@
 Eleconnect is a simple based electron app shell.
 
  # ⚠️ Read ME ⚠️
- 
- ### Do not touch package.json, it contains critical assets to keep the package up to date. Modifying the package.json will result in unstability and security risks.
-
 
 # If instance errors, 
 
