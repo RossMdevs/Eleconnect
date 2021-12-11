@@ -2,6 +2,8 @@
 
 # Eleconnect
 
+> We work with [PasswordGen](https://github.com/RossMdevs/Password-Generator)
+
 Eleconnect is a simple based electron app shell.
 
  # ⚠️ Read ME ⚠️
