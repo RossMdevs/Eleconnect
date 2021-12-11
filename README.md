@@ -12,8 +12,8 @@ Eleconnect is a simple based electron app shell.
 # If instance errors, 
 
 Utilize this command,
-`this.document.location = "http://stackoverflow.com/"`
-
+`this.document.location = "Directory/of/build/index.html"`
+Using / reverts to Chromes failure page.
 ## Proudly developed with:
  
  * Electron
