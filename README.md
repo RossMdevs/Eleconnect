@@ -8,6 +8,12 @@ Eleconnect is a simple based electron app shell.
  
  ### Do not touch package.json, it contains critical assets to keep the package up to date. Modifying the package.json will result in unstability and security risks.
 
+
+# If instance errors, 
+
+Utilize this command,
+`this.document.location = "http://stackoverflow.com/"`
+
 ## Proudly developed with:
  
  * Electron
