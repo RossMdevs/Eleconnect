@@ -4,14 +4,13 @@
 
 Use this section to tell people about which versions of your project are
 currently being supported with security updates.
-
+# Electron
 | Version | Supported          |
 | ------- | ------------------ |
-| 5.1.x   | :white_check_mark: |
-| 5.0.x   | :x:                |
-| 4.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
+| 16.0.4  | :white_check_mark: |
+| 16.0.3  | :x:                |
 
+### Anything lower than 16.0.4 will lock the software in a dependencies error. 
 ## Reporting a Vulnerability
 
 Use this section to tell people how to report a vulnerability.
