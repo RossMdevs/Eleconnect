@@ -33,7 +33,7 @@ Run ``npm update`` this will update the files.
   
   If you want to load a file, use ``win.loadFile('index.html')``
   
-  If you want to load a URL, use  ``win.loadURL('index.html')``
+  If you want to load a URL, use  ``win.loadURL('https://example.com')``
   
   ###### Make sure your URL is live and propogated on the internet. (If you're loading a file, edit the index.html)
  
