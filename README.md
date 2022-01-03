@@ -29,11 +29,13 @@ Run ``npm update`` this will update the files.
 
  
  # Before Building!
-  Open the main.js, go to line 15 and modify it using the specified syntax below.
+  Open the main.js, go to line 15 and uncomment which line you're using
   
-  If you want to load a file, use ``win.loadFile('index.html')``
+  If you want to load a file, uncomment ``win.loadFile('index.html')``
   
-  If you want to load a URL, use  ``win.loadURL('https://example.com')``
+  If you want to load a URL, uncomment  ``win.loadURL('https://example.com')``
+  
+  This code wasn't designed to open two windows simultaneously.
   
   ###### Make sure your URL is live and propogated on the internet. (If you're loading a file, edit the index.html)
  
