@@ -13,7 +13,8 @@ const {app, BrowserWindow} = require('electron')
     win = new BrowserWindow({width: 800, height: 600, frame: false}) // specifies height, width and if the windows is borderless or not.
   
     win.loadFile('index.html')
-  
+   // Use // to comment out whichever win.load you're not using.
+   //win.loadURL("http://127.0.0.1") // can be modified to whatever.
   
     win.on('closed', () => {
       win = null
