@@ -1,18 +1,18 @@
-###### Eleconnect, simple base shell for starter devs.
+###### &copy; 2022 Eleconnect: Innovative base shell supporting adaptability.
 
-# Eleconnect
+# Eleconnect (Electron-Connect)
 
-> We work with [PasswordGen](https://github.com/RossMdevs/Password-Generator)
+Eleconnect is a electron-js hardcoded app. 
 
-Eleconnect is a electron developed app. 
-It opens a frameless or framed window displaying the asset you configured to load.
+You can design the app to open bordered or frameless. 
 
-It is the first step to packaging a windows app for your specified distro.
+Electconnect can be combined with a packager, to design electron-window .exe applications
+
 
 ## Proudly developed with:
  
  * Electron
- * NdeJS
+ * NodeJS
  
  # Get Started 
  
@@ -66,7 +66,7 @@ Utilize this command using the Console Interface.
 `this.document.location = "Directory/of/build/index.html"`
 Using "/" as the location reverts to a broken page
 
-#### Developed by Intel & Ross
+#### Developed by Ross
 
 
 
