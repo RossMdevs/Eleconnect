@@ -2,14 +2,12 @@
 
 # Eleconnect (Electron-Connect)
 
-Eleconnect is a electron-js hardcoded app. 
+You can design the app to open bordered or frameless, with a URL or File. 
 
-You can design the app to open bordered or frameless. 
-
-Electconnect can be combined with a packager, to design electron-window .exe applications
+Electconnect can be combined with a packager, to design electron windowed .exe applications
 
 
-## Proudly developed with:
+## Eleconnect was developed with:
  
  * Electron
  * NodeJS
@@ -24,22 +22,16 @@ Electconnect can be combined with a packager, to design electron-window .exe app
 Run ``npm update`` this will update the files.
 
 
- 
 
-
- 
  # Before Building!
   Open the main.js, go to line 15 and uncomment which line you're using
   
-  If you want to load a file, uncomment ``win.loadFile('index.html')``
+  If you want to load a file, uncomment ``win.loadFile('index.html')``.
   
-  If you want to load a URL, uncomment  ``win.loadURL('https://example.com')``
-  
-  This code wasn't designed to open two windows simultaneously.
-  
-  ###### Make sure your URL is live and propogated on the internet. (If you're loading a file, edit the index.html)
+  If you want to load a URL, uncomment  ``win.loadURL('https://example.com')``.
  
-Also, make sure you modify these lines in package.json, as when it's packaged this information will display.
+ 
+ Make sure you modify these lines in package.json, as when it's packaged this information will display.
 ```  
 "name": "eleconnect",
   "version": "1.0.0",
@@ -56,7 +48,8 @@ Make sure ELECTRON Packager is installed  ``npm install -g electron-packager``
 Build the project: `electron-packager . --overwrite --icon=assets/icons/win/icon.ico --out=release-builds`
 
 
-Build the installer (optional): `node installers/windows/createinstaller.js`
+Please natively build using Nullsoft or InstallerForge.
+~~Build the installer (optional): `node installers/windows/createinstaller.js`~~
 
 
 
