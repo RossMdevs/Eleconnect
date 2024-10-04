@@ -1,5 +1,5 @@
 ## Automatic LIB Installer/Updater, requires confirm for each task.
-## Remove lines 4, 6 and 8 for automatic workflow/
+## Remove lines 4, 6 and 8 for automatic workflow. (Works and CMD or bash)
 echo Automatic LIB Installer and Updater
 read -p "Press [Enter] key to start dependencies install..."
 npm i
