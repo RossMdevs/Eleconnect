@@ -1,7 +1,7 @@
 {
   "name": "eleconnect",
   "version": "1.0.0",
-  "description": "Base app for Electron to coonect to your files.",
+  "description": "Base app for Electron to connect to your files.",
   "main": "main.js",
   "devDependencies": {
     "electron": "^16.0.4",
