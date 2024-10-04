@@ -35,7 +35,7 @@ Run ``npm update`` this will update the files.
 ```  
 "name": "eleconnect",
   "version": "1.0.0",
-  "description": "Base app for Electron to coonect to your files.",
+  "description": "Base app for Electron to connect to your files.",
   ```
 
   And modify the output name here, this will be the installer name.
